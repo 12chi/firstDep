@@ -1,6 +1,4 @@
 
 This is a small sample of bio for Git.
 
-My favorite movie is Star Wars.
-
 
